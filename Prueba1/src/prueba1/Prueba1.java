@@ -7,7 +7,7 @@ public class Prueba1 {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {//Funcionó carajo!!
+    public static void main(String[] args) {//Clase principal, iniciadora o programa principal
         String mate;
         String fisica;
         String quimica;
