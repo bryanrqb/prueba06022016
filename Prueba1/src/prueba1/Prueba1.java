@@ -7,7 +7,7 @@ public class Prueba1 {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {//Mediante este método java sabe por dónde va a empezar a compilar el programa
+    public static void main(String[] args) {//Funcionó carajo!!
         String mate;
         String fisica;
         String quimica;
